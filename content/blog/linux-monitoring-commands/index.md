@@ -1,11 +1,11 @@
 ---
 title: Linux monitoring commands
 date: "2020-04-24 16:29:06"
-description: "Changed the content"
+description: "Here is a comprehensive guide that I thing beneficial while monitoring users."
 ---
 
 Common Linux systems need to be supervision by system admins.
-Here is a comprehensive commands that I thing beneficial while monitoring users.
+Here is a comprehensive guide that I thing beneficial while monitoring users.
 
 | Description |Command|
 |--|--|

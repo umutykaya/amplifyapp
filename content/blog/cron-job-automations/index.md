@@ -1,6 +1,7 @@
 ---
 title: Cron jobs automations
 date: "2020-04-24 16:15:10"
+description: "Cron jobs ensure to automate and schedule python jobs."
 ---
 
 Cron jobs ensure to automate and schedule python jobs. Here is a quick expression.
