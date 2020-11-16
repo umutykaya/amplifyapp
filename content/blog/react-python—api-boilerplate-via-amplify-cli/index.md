@@ -3,7 +3,7 @@ title: React + Python API Boilerplate via Amplify CLI
 date: "2020-11-15 18:30:00"
 description: "In this tutorial, I'll try to let you know how to create a web application stack using AWS Amplify CLI."
 ---
-
+In this tutorial, I'll try to let you know how to create a web application stack using AWS Amplify CLI.
 
 * Fornt-end: React Framework, JS, CSS, Html
 * Back-end: Python 3, Serverless Lambda.
